@@ -1,4 +1,4 @@
-# PlaneGame
+# Game
 This is my game made with Python and Pygame. 
 
 ## How to Run
